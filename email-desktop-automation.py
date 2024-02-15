@@ -4,10 +4,10 @@ import email
 import os
 
 # account credentials
-username = 'marcelinogilbert26@gapp.nthu.edu.tw'
-password = 'M1sterter1'
+username = 'johndoe@gmail.com' # GANTI DENGAN EMAIL ANDA
+password = 'johndoe1234' # GANTI DENGAN PASSWORD ANDA
 imap_url = 'imap.gmail.com'
-attachment_dir = 'C:/Users/USER/Documents/Github/email-automation/files'
+attachment_dir = 'C:/Users/USER/Documents/Github/email-automation/files' # GANTI DENGAN LOKASI FOLDER YANG ANDA INGINKAN
 
 
 # connect to the email server

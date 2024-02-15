@@ -2,10 +2,10 @@ import openpyxl
 import csv
 
 # Path to the text file
-txt_file = 'C:/Users/USER/Documents/Github/email-automation/files/report.txt'
+txt_file = 'C:/Users/USER/Documents/Github/email-automation/files/report.txt' # GANTI DENGAN LOKASI FILE YANG ANDA INGINKAN
 
 # Path to the new Excel file
-xlsx_file = 'C:/Users/USER/Documents/Github/email-automation/files/result.xlsx'
+xlsx_file = 'C:/Users/USER/Documents/Github/email-automation/files/result.xlsx' # GANTI DENGAN LOKASI FILE YANG ANDA INGINKAN
 
 # Create a new workbook and select the active worksheet
 workbook = openpyxl.Workbook()
